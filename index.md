@@ -1,6 +1,5 @@
  {% include navigation.html %}
  
-[About page](about)
 
 ## Large-Scale GxE Methods Project
 
