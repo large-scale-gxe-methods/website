@@ -2,6 +2,7 @@
  
 
 ## Large-Scale GxE Methods Project
+[Link to our project on NIH Reporter] (https://reporter.nih.gov/search/gAoJB8GZC023oCHDlwkpCQ/project-details/10199014)
 
 Welcome to the website for the Large-scale GxE Methods Project
 
