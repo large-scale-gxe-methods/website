@@ -23,3 +23,7 @@ We developed a new software program, GEM (Gene-Environment interaction analysis 
 Through simulations, we demonstrate that GEM enables genome-wide GEI analysis that scales to millions of samples while addressing limitations of existing software programs. In order to further assess the value of genome-wide GEI testing, we conducted a gene-by-sex interaction analysis on body mass index (BMI)-adjusted waist-hip ratio (WHR) in 352,768 unrelated individuals of European ancestry from the UK Biobank.
 
 By testing for sex-by-genotype interaction, we identified 6 novel loci that have not been previously reported as sex-dimorphic for WHR. Using the joint test of both genetic and GEI effects, we identified 39 novel loci that have not been previously reported in sex-specific or combined analyses. Furthermore, through analysis of down-sampled datasets, we showed that the degree of polygenicity is similar for interaction and marginal effects. Our results demonstrate the value of explicit GEI testing in large sample sizes and shed light on the polygenic architecture of sex interaction effects for WHR.
+
+## Tools
+
+[GEM](https://github.com/large-scale-gxe-methods/GEM) 
