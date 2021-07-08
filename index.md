@@ -24,6 +24,6 @@ Through simulations, we demonstrate that GEM enables genome-wide GEI analysis th
 
 By testing for sex-by-genotype interaction, we identified 6 novel loci that have not been previously reported as sex-dimorphic for WHR. Using the joint test of both genetic and GEI effects, we identified 39 novel loci that have not been previously reported in sex-specific or combined analyses. Furthermore, through analysis of down-sampled datasets, we showed that the degree of polygenicity is similar for interaction and marginal effects. Our results demonstrate the value of explicit GEI testing in large sample sizes and shed light on the polygenic architecture of sex interaction effects for WHR.
 
-## Methods & Tools
+## Resources & Tools
 
 [GEM](https://github.com/large-scale-gxe-methods/GEM) 
