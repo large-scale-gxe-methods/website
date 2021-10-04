@@ -9,8 +9,8 @@ Welcome to the website for the Large-scale GxE Methods Project
 #### Research Question
 The major goals of this project are to develop efficient methods and algorithms for large-scale gene-environment interaction studies, and implement them in open-source software programs and cloud-based analysis pipelines, to facilitate gene-environment interaction research on complex cardio-metabolic, lung, blood and sleep diseases and related conditions using hundreds of thousands to millions of samples.  
 
-#### Team members and collaborators 
-Han Chen, Alanna Morrison, Yan Sun, and Yun-Ju Sung
+#### Principal Investigators 
+Han Chen, Alisa Manning
 
 #### Approach 
 Gene- environment interaction (GEI) studies allow us to understand the relationship between genetic variations and a phenotype in the presence of an exposure, which can be a lifestyle (e.g. cigarette smoking), an environmental exposure (e.g. toxin), a physiological factor (e.g. obesity), or a treatment intervention (e.g. daily aspirin therapy).
@@ -27,3 +27,4 @@ By testing for sex-by-genotype interaction, we identified 6 novel loci that have
 ## Resources & Tools
 
 [GEM](https://github.com/large-scale-gxe-methods/GEM) 
+is a software program for large-scale gene-environment interaction testing in samples from unrelated individuals. It enables genome-wide association studies in up to millions of samples while allowing for multiple exposures, control for genotype-covariate interactions, and robust inference.
