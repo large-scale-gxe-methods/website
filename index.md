@@ -6,10 +6,10 @@
 
 Welcome to the website for the Large-scale GxE Methods Project
 
-#### Research Question
+### Research Question
 The major goals of this project are to develop efficient methods and algorithms for large-scale gene-environment interaction studies, and implement them in open-source software programs and cloud-based analysis pipelines, to facilitate gene-environment interaction research on complex cardio-metabolic, lung, blood and sleep diseases and related conditions using hundreds of thousands to millions of samples.  
 
-#### Principal Investigators 
+### Principal Investigators 
 Han Chen, Alisa Manning
 
 #### Approach 
