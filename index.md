@@ -17,7 +17,7 @@ Gene- environment interaction (GEI) studies allow us to understand the relations
 
 We plan to develop and implement computationally efficient statistical methods and user-friendly software packages to solve analytical challenges.
 
-#### Results
+#### GEM (Gene-Environment interaction analysis in Millions of Samples)
 We developed a new software program, GEM (Gene-Environment interaction analysis in Millions of samples) as part of R01 HL145025 (Multi-PI’s Manning/Chen), which supports the inclusion of multiple GEI terms and adjustment for GEI covariates, conducts both model-based and robust inference procedures, and enables multi-threading to reduce computational time.
 
 Through simulations, we demonstrate that GEM enables genome-wide GEI analysis that scales to millions of samples while addressing limitations of existing software programs. In order to further assess the value of genome-wide GEI testing, we conducted a gene-by-sex interaction analysis on body mass index (BMI)-adjusted waist-hip ratio (WHR) in 352,768 unrelated individuals of European ancestry from the UK Biobank.
