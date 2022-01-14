@@ -1,3 +1,3 @@
 ## GxE Website
 
-https://large-scale-gxe-methods.github.io/website/
+https://large-scale-gxe-methods.github.io/
