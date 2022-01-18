@@ -1,6 +1,6 @@
 ---
-Layout: Default
-Name: MAGEE 
-Rank: 3
+layout: Default
+title: MAGEE 
+rank: 3
 --- 
 [MAGEE](https://github.com/large-scale-gxe-methods/MAGEE)
