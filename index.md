@@ -30,3 +30,13 @@ Through simulations, we demonstrate that GEM enables genome-wide GEI analysis th
 
 By testing for sex-by-genotype interaction, we identified 6 novel loci that have not been previously reported as sex-dimorphic for WHR. Using the joint test of both genetic and GEI effects, we identified 39 novel loci that have not been previously reported in sex-specific or combined analyses. Furthermore, through analysis of down-sampled datasets, we showed that the degree of polygenicity is similar for interaction and marginal effects. Our results demonstrate the value of explicit GEI testing in large sample sizes and shed light on the polygenic architecture of sex interaction effects for WHR.
 
+#### MAGEE (Mixed-model Association tests for GEne-Environment interactions)
+
+Wang, X., Lim, E., Liu, C. T., Sung, Y. J., Rao, D. C., Morrison, A. C., Boerwinkle, E., Manning, A. K., & Chen, H. (2020). [Efficient gene-environment interaction tests for large biobank-scale sequencing studies. Genetic epidemiology, 44(8), 908–923](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7754763/)
+
+Mixed-model Association tests for Gene-Environment interactions (MAGEE) is an R package that was developed as part of R01HL145025 (Multi-PI’s Manning/Chen). MAGEE provides a computationally efficient variant set-based mixed model for conducting genome-wide gene-environment interaction (GEI) tests and joint tests.
+
+Through simulation studies, we have shown MAGEE successfully controls type 1 errors in both unrelated and related samples, accounts for sample relatedness using GLMMs, and reduces the computational complexity for testing each variant. MAGEE can be applied to both quantitative and binary traits in large biobank-scale related individuals.
+
+For real data applications, we applied MAGEE to the WES data from the UK Biobank. The results showed MAGEE p values were well calibrated and we identified an association between BMI and MC4R gene from the joint test. Although significant p values were not found from the interaction test, it is possible that interaction effects may be too small to identify in 41,144 samples. As the WES project is ongoing in the UK Biobank, we hope to revisit gene-environment interaction analyses when WES data from more UK Biobank samples are released in the coming years.
+
