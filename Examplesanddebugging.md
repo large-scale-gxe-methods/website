@@ -1,3 +1,12 @@
+# GEM Showcase Workspace 
+
+We have created a showcase worskapce that's featured on the Terra platform to illustrate an entire workflow from VCF file to summary plots. The workspace uses genotype data from 1000 Genomes Project, which is publically available on Terra.
+
+[GEM Showcase Workspace on Terra](https://app.terra.bio/#workspaces/largescale-gxe-methods/GEM-showcase)
+
+[Learn more about Terra](https://terra.bio/resources/getting-started/)
+
+
 # Examples and Debugging 
 ## Examples 
 
