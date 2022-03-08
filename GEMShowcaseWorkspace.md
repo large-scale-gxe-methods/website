@@ -6,19 +6,6 @@ We have created a showcase worskapce that's featured on the Terra platform to il
 
 [Learn more about Terra](https://terra.bio/resources/getting-started/)
 
-## GEM Video Tutorial
-
-Part 1: Setting up your Terra workspace
-
-https://user-images.githubusercontent.com/82837599/157309246-2c8df126-c048-4491-8edd-a6dbbe0ec7eb.mp4
-
-Part 2: Running GEM
-
-https://user-images.githubusercontent.com/82837599/157309811-38454501-7ea1-42e9-98d8-14ecc4f7ace8.mp4
-
-
-
-
 
 # Examples and Debugging 
 ## Examples 
