@@ -9,6 +9,8 @@ We have created a showcase worskapce that's featured on the Terra platform to il
 
 [Learn more about Terra](https://terra.bio/resources/getting-started/)
 
+# GEM Showcase Demo
+
 {% include googleDrivePlayer.html id=page.driveId %}
 
 # Examples and Debugging 
