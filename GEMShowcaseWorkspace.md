@@ -1,3 +1,6 @@
+---
+driveId: 1xu6dHTX70CMyM2ER3LEn0m8fZ5nNNR1Q/preview
+---
 # GEM Showcase Workspace 
 
 We have created a showcase worskapce that's featured on the Terra platform to illustrate an entire workflow from VCF file to summary plots. The workspace uses genotype data from 1000 Genomes Project, which is publically available on Terra.
@@ -6,6 +9,7 @@ We have created a showcase worskapce that's featured on the Terra platform to il
 
 [Learn more about Terra](https://terra.bio/resources/getting-started/)
 
+{% include googleDrivePlayer.html id=page.driveId %}
 
 # Examples and Debugging 
 ## Examples 
