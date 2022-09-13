@@ -30,6 +30,8 @@ Through simulations, we demonstrate that GEM enables genome-wide GEI analysis th
 
 By testing for sex-by-genotype interaction, we identified 6 novel loci that have not been previously reported as sex-dimorphic for WHR. Using the joint test of both genetic and GEI effects, we identified 39 novel loci that have not been previously reported in sex-specific or combined analyses. Furthermore, through analysis of down-sampled datasets, we showed that the degree of polygenicity is similar for interaction and marginal effects. Our results demonstrate the value of explicit GEI testing in large sample sizes and shed light on the polygenic architecture of sex interaction effects for WHR.
 
+![Large-Scale GxE Methods Software Suite](Large-scale_GxE_Software_Flowchart_V5.jpg)
+
 #### MAGEE (Mixed-model Association tests for GEne-Environment interactions)
 
 Wang, X., Lim, E., Liu, C. T., Sung, Y. J., Rao, D. C., Morrison, A. C., Boerwinkle, E., Manning, A. K., & Chen, H. (2020). [Efficient gene-environment interaction tests for large biobank-scale sequencing studies. Genetic epidemiology, 44(8), 908–923](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7754763/)
