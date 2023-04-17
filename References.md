@@ -17,5 +17,4 @@ environment interaction analysis in millions of samples. Bioinformatics 37(20):3
 If you use MAGEE in your analysis, please cite the following article:
 
 * Wang, X., Lim, E., Liu, C. T., Sung, Y. J., Rao, D. C., Morrison, A. C., Boerwinkle, E., Manning, A. K., & Chen, H. (2020).
-[Efficient gene-environment interaction tests for large biobank-scale sequencing studies. Genetic epidemiology, 44(8), 908–923]
-(https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7754763/)
+[Efficient gene-environment interaction tests for large biobank-scale sequencing studies. Genetic epidemiology, 44(8), 908–923](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7754763/)
